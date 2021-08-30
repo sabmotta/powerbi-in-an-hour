@@ -8,6 +8,6 @@ Have a look at the Power BI slide and lab document in the resources folder.
 
 1. Clone or Download this repo to your local C:\
 2. Extract to a new folder named "Power BI", e.g. C:\Power BI
-3. If you don't have Power BI Desktop, you can download it [here](#https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+3. If you don't have Power BI Desktop, you can download it [here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 **Enjoy and keep learning!!**
